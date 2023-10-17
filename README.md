@@ -1,11 +1,23 @@
-### Hi there 👋
+<h1 align='center'>
+  Hi there 👋 I'm Bair 👨‍💻
+</h1>
 
-My name is Bair and am a Python developer. I've been learning python for a year. Currently looking for a job.
+<p align='center'>
+  I am a Python developer. I've been learning python for a year. Currently looking for a job.
+</p>
 
-How to contact me: Just send me email to erendzhenovbair1990@yandex.ru
-
-### My socials
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/BairErendzhenov)
+<p align='center'>
+  
+  <a href="https://t.me/BairErendzhenov)/">
+    <img src="https://img.shields.io/badge/telgram-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/bair_erendzhenov">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+<p align='center'>
+  📫 How to contact me: <a href='mailto:alexandreslima@outlook.com'>erendzhenovbair1990@yandex.ru</a>
+</p>
 
 ### My teck stack
 
