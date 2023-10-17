@@ -8,8 +8,8 @@
 
 <p align='center'>
   
-  <a href="https://t.me/BairErendzhenov)/">
-    <img src="https://img.shields.io/badge/telgram-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://t.me/BairErendzhenov">
+    <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://instagram.com/bair_erendzhenov">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
