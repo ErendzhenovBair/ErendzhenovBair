@@ -14,6 +14,11 @@
   <a href="https://instagram.com/bair_erendzhenov">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/erendzhenovbair">
+    <img src="https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
   
 <p align='center'>
   📫 How to reach me: <a href='mailto:alexandreslima@outlook.com'>erendzhenovbair1990@yandex.ru</a>
