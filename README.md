@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 My name is Bair and am a Python developer. I've been learning python for a year. Currently looking for a job.
+
 How to contact me: Just send me email to erendzhenovbair1990@yandex.ru
 
 ### My socials
