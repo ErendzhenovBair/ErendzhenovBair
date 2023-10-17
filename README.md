@@ -2,8 +2,9 @@
 
 My name is Bair and am a Python developer. I've been learning python for a year. Currently looking for a job.
 How to contact me: Just send me email to erendzhenovbair1990@yandex.ru
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/BairErendzhenov)
 
+### My socials
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/BairErendzhenov)
 
 ### My teck stack
 
