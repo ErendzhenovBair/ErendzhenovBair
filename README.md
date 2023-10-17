@@ -14,9 +14,14 @@
   <a href="https://instagram.com/bair_erendzhenov">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ErendzhenovBair&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
   
 <p align='center'>
-  📫 How to contact me: <a href='mailto:alexandreslima@outlook.com'>erendzhenovbair1990@yandex.ru</a>
+  📫 How to reach me: <a href='mailto:alexandreslima@outlook.com'>erendzhenovbair1990@yandex.ru</a>
 </p>
 
 ### My teck stack
